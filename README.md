@@ -6,4 +6,4 @@ Left Slide Menu based on NavigationController for Swift
 
 SexyDynamite License for free, free, free.. whatever
  
- ![Demo](DemoMovie/SSBouncyButton.gif)
+ ![Demo](https://github.com/StyleShare/SSBouncyButton/blob/master/SSBouncyButtonDemo/SSBouncyButtonDemo/SSAppDelegate.m#L44:L59)
