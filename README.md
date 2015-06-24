@@ -6,4 +6,4 @@ Left Slide Menu based on NavigationController for Swift
 
 SexyDynamite License for free, free, free.. whatever
 
-![https://photos.google.com/album/AF1QipOslLfhhAXgoaotkFlkP52sZuZuw1ZtoQUxVced/photo/AF1QipM6--EnBunIgABcRoOAS3uPiRAm54eqHJkmD2R8](alt)
+![http://2.bp.blogspot.com/-NS14ZtSMDgo/VYojwmm1hBI/AAAAAAAAAlE/xtq-2eqYXg4/s1600/Demo.gif](alt)
