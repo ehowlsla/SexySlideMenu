@@ -4,4 +4,4 @@ Left Slide Menu based on NavigationController for Swift
 
 # License
 
-SexyDynamite License for free, free, free.. whatever
+SexyDynamite License for free, free, free.. whatever2
