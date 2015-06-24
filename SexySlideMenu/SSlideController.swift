@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SSlideController.swift
 //  SexySlideMenu
 //
 //  Created by YoonTaesup on 2015. 6. 24..
@@ -8,18 +8,20 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class SSlideController: SexyController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        hamburgerButton.color = UIColor.navi
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    
 }
 
